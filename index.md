@@ -6,3 +6,11 @@
 
 
 [link to other page](/exam)
+
+https://tasteasianfood.com/mapo-tofu/
+
+https://www.facebook.com/KongFuGeLeuven/
+
+https://www.bodhiplantbased.be/
+
+https://www.lekkerhuis.com/
