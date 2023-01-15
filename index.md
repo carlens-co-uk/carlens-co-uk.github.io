@@ -10,10 +10,10 @@
 [link to other page](/exam)
 
 
-## recipe
+## recipes
  [mapo tofu recipe ](https://tasteasianfood.com/mapo-tofu/)
 
-## resto
+## restos
 [Kong fu ge - Leuven](https://www.facebook.com/KongFuGeLeuven/)
 
 [bohdi - leuven](https://www.bodhiplantbased.be/)
