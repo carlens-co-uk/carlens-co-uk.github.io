@@ -13,8 +13,8 @@
  [mapo tofu recipe ](https://tasteasianfood.com/mapo-tofu/)
 
 ## resto
-[Kong fu ge - Leuven] (https://www.facebook.com/KongFuGeLeuven/)
+[Kong fu ge - Leuven](https://www.facebook.com/KongFuGeLeuven/)
 
-[bohdi - leuven] (https://www.bodhiplantbased.be/)
+[bohdi - leuven](https://www.bodhiplantbased.be/)
 
-[heel lekkerhuis - Mechelen] (https://www.lekkerhuis.com/)
+[heel lekkerhuis - Mechelen](https://www.lekkerhuis.com/)
