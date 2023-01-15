@@ -1,16 +1,20 @@
 #  生日 ?
+## random
 我 喜欢做饭， 我也喜欢喝比利时啤酒。 我不喜欢 唱歌.
 明天上午你有没有中文课
 我喜欢北京烤鸭和红酒炖鸡。 我 不喜欢汉堡
 你的家有几 口人。我的家有二口人
 
-
+##some links
 [link to other page](/exam)
 
-https://tasteasianfood.com/mapo-tofu/
 
-https://www.facebook.com/KongFuGeLeuven/
+## recipe
+ [mapo tofu recipe ](https://tasteasianfood.com/mapo-tofu/)
 
-https://www.bodhiplantbased.be/
+## resto
+[Kong fu ge - Leuven] (https://www.facebook.com/KongFuGeLeuven/)
 
-https://www.lekkerhuis.com/
+[bohdi - leuven] (https://www.bodhiplantbased.be/)
+
+[heel lekkerhuis - Mechelen] (https://www.lekkerhuis.com/)
