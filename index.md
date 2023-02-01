@@ -15,7 +15,7 @@
 
 ## Some links
 
-[link to other page](/exam)
+[下午 上课](/exam)
 
 
 ## Recipes
